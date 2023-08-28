@@ -9,7 +9,7 @@
 
 ###
 
-
+<img align="right" height="200" src="https://i.gifer.com/PBt.gif"  />
 
 ###
 
@@ -80,5 +80,5 @@
 <img src="https://raw.githubusercontent.com/itsmytype/itsmytype/output/snake.svg" alt="Snake animation" />
 
 ###
-<img align="right" height="200" src="https://i.gifer.com/PBt.gif"  />
+
 
