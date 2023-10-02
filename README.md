@@ -77,8 +77,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/itsmytype/itsmytype/output/snake.svg" alt="Snake animation" />
-
 ###
 
 
